@@ -5,5 +5,5 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hg316&show_icons=true&theme=radical" />
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khgn316" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hg316&layout=compact&show_icons=true&theme=radical" />
 </p>
